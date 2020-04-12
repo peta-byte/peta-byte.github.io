@@ -3783,3 +3783,11 @@ input, select, textarea {
 			}
 
 		}
+#back:hover {
+	background-color: grey;
+	opacity: 0.5;
+}
+#forward:hover {
+	background-color: grey;
+	opacity: 0.5;
+}
